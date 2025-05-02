@@ -38,12 +38,11 @@
 ### 📱 Mobile Development  
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 
-
 ## GitHub Stats
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=misantiago17&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="45%" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=misantiago17&layout=compact&theme=radical" alt="Top Languages" width="45%" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=misantiago17&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="400" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=misantiago17&layout=compact&theme=radical" alt="Top Languages" width="400" height="195" />
 </div>
 
 ---
