@@ -41,8 +41,8 @@
 ## GitHub Stats
 
 <div align="center" style="display: flex; justify-content: space-evenly; width: 100%; max-width: 800px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=misantiago17&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="380" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=misantiago17&layout=compact&theme=radical" alt="Top Languages" width="380" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=misantiago17&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="420" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=misantiago17&layout=compact&theme=radical" alt="Top Languages" width="330" height="195" />
 </div>
 
 ---
