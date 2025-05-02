@@ -19,7 +19,6 @@
   <h3>Connect With Me</h3>
   <a href="https://misantiago17.github.io/" target="_blank"><img align="center" alt="Website" width="40px" src="https://img.icons8.com/ios-filled/50/e64980/globe--v1.png" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/michelle-beadle/" target="_blank"><img align="center" alt="LinkedIn" width="40px" src="https://img.icons8.com/ios-filled/50/e64980/linkedin.png" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/misantiago17" target="_blank"><img align="center" alt="GitHub" width="40px" src="https://img.icons8.com/ios-filled/50/e64980/github.png" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://misantiago17.itch.io/" target="_blank"><img align="center" alt="Itch.io" width="40px" src="https://api.iconify.design/fa-brands:itch-io.svg?color=%23E64980" /></a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:michelle.santiago10@gmail.com" target="_blank"><img align="center" alt="Email" width="40px" src="https://img.icons8.com/ios-filled/50/e64980/mail.png" /></a>
 </div>
