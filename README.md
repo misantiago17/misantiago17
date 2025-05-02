@@ -42,37 +42,19 @@
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=misantiago17&show_icons=true&theme=radical" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=misantiago17&layout=compact&theme=radical" alt="Top Languages" width="335" />
-</p>
+<div align="center" style="display: flex; justify-content: center; gap: 20px; width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=misantiago17&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="45%" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=misantiago17&layout=compact&theme=radical" alt="Top Languages" width="45%" height="195" />
+</div>
 
-## Featured Projects
-
-[![Fireflies](https://img.shields.io/badge/Fireflies-GMTK_Game_Jam_(3rd_Place)-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://nestgamestudio.itch.io/fireflies)
-
-## Connect with me
+## Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/michelle-beadle/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/misantiago17" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="https://misantiago17.itch.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io" />
-  </a>
-  &nbsp;
-  <a href="mailto:michelle.santiago10@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://misantiago17.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
-  </a>
+  <a href="https://misantiago17.github.io/" target="_blank"><img align="center" alt="Website" width="40px" src="https://img.icons8.com/ios-filled/50/e64980/globe--v1.png" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/michelle-beadle/" target="_blank"><img align="center" alt="LinkedIn" width="40px" src="https://img.icons8.com/ios-filled/50/e64980/linkedin.png" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/misantiago17" target="_blank"><img align="center" alt="GitHub" width="40px" src="https://img.icons8.com/ios-filled/50/e64980/github.png" /></a>&nbsp;&nbsp;
+  <a href="https://misantiago17.itch.io/" target="_blank"><img align="center" alt="Itch.io" width="40px" src="https://api.iconify.design/fa-brands:itch-io.svg?color=%23E64980" /></a>&nbsp;&nbsp;
+  <a href="mailto:michelle.santiago10@gmail.com" target="_blank"><img align="center" alt="Email" width="40px" src="https://img.icons8.com/ios-filled/50/e64980/mail.png" /></a>
 </p>
 
 ---
